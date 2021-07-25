@@ -1,3 +1,6 @@
-# Welcome!
-## My name is Peter Antonaros Jr. I'm an Applied Mathematics student at Queens College, City University of New York.  
+# Hello there 👋, I'm Peter Antonaros Jr.
+
+### I am an Applied Mathematics 🧮 student at Queens College 🏫 City University of New York 
+
+
 
