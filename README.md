@@ -7,11 +7,13 @@
 
 
 ### Personal Website
+
 Click [here] to learn more about me, my education, passions and some of things I enjoy 😄
 
 
 
 ### Languages/Tools
+
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/peterantonarosjr/peterantonarosjr/blob/main/PNG/VisualStudioCodeIcon.png" />]
 [<img align="left" alt="Java" width="35px" src="https://github.com/peterantonarosjr/peterantonarosjr/blob/main/PNG/JavaIcon.png" />]
 [<img align="left" alt="Python" width="35px" src="https://github.com/peterantonarosjr/peterantonarosjr/blob/main/PNG/PythonIcon.png" />]
