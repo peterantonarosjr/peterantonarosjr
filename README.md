@@ -10,7 +10,6 @@
 
 Click [here] to learn more about me, my education, passions and some of things I enjoy 😄
 
-<br />
 
 ### Languages/Tools
 
