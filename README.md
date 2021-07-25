@@ -10,7 +10,7 @@
 
 Click [here] to learn more about me, my education, passions and some of things I enjoy 😄
 
-
+<br />
 
 ### Languages/Tools
 
@@ -18,6 +18,9 @@ Click [here] to learn more about me, my education, passions and some of things I
 [<img align="left" alt="Java" width="35px" src="https://github.com/peterantonarosjr/peterantonarosjr/blob/main/PNG/JavaIcon.png" />]
 [<img align="left" alt="Python" width="35px" src="https://github.com/peterantonarosjr/peterantonarosjr/blob/main/PNG/PythonIcon.png" />]
 [<img align="left" alt="Terminal" width="35px" src="https://github.com/peterantonarosjr/peterantonarosjr/blob/main/PNG/TerminalIcon.png" />]
+
+<br />
+<br />
 
 [here]: https://peterantonarosjr.com
 [Christopher Soto]: https://christophersoto.me/
