@@ -19,7 +19,7 @@ Click [here] to learn more about me, my education, passions and some of things I
 <img align="left" alt="Python" width="35px" src="https://github.com/peterantonarosjr/peterantonarosjr/blob/main/PNG/PythonIcon.png" />
 <img align="left" alt="Pycharm" width="35px" src="https://github.com/peterantonarosjr/peterantonarosjr/blob/main/PNG/PycharmLogo.png" />
 <img align="left" alt="Anaconda" width="35px" src="https://github.com/peterantonarosjr/peterantonarosjr/blob/main/PNG/AnacondaLogo.png" />
-<img align="left" alt="Mathematica" width="35px" src="https://github.com/peterantonarosjr/peterantonarosjr/blob/main/PNG/TerminalIcon.png" />
+<img align="left" alt="Mathematica" width="35px" src="https://github.com/peterantonarosjr/peterantonarosjr/blob/main/PNG/MathematicaLogo.png" />
 <img align="left" alt="Terminal" width="35px" src="https://github.com/peterantonarosjr/peterantonarosjr/blob/main/PNG/TerminalIcon.png" />
 
 
