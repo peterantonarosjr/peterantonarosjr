@@ -27,7 +27,7 @@ Click [here] to learn more about me, my education, passions and some of things I
 <br />
 
 ### Peter's Github Stats
- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=peterantonarosjr&show_icons=true&hide_border=true" />
+ <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.peterantonarosjr.vercel.app/api?username=peterantonarosjr&show_icons=true&hide_border=true" />
 
 
 [here]: https://peterantonarosjr.com
