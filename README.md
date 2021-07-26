@@ -2,8 +2,9 @@
 
 ### I am an Applied Mathematics 🧮 student at Queens College 🏫 City University of New York 
 
-* 📜 I am currently conducting Generative Art Research with [Christopher Soto] under the supervision and guidance of our professor [Christopher Hanusa], who operates the [Experimental Mathematics Laboratory at Queens College].
-* 
+* 📜 I am currently conducting Generative Art Research with [Christopher Soto] under the supervision and guidance of our professor [Christopher Hanusa], who operates the [Experimental Mathematics Laboratory at Queens College]
+* 📚 I am currently reading about the optimization of algorithms to cute energy consumption
+* ⚡ A future goal of mine is to contribute to an open source project
 
 
 ### Personal Website
@@ -27,7 +28,7 @@ Click [here] to learn more about me, my education, passions and some of things I
 <br />
 
 ### Peter's Github Stats
- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.peterantonarosjr.vercel.app/api?username=peterantonarosjr&show_icons=true&hide_border=true" />
+
 
 
 [here]: https://peterantonarosjr.com
