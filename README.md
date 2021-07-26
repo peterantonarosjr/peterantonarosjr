@@ -9,7 +9,7 @@
 
 ### Personal Website
 
-Click [here] to learn more about me, my education, passions and some of things I enjoy 😄
+Click [here] to learn more about me, my education, passions and some of the things I enjoy 😄
 
 
 ### Languages/Tools
