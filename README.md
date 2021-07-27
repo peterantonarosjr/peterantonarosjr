@@ -28,15 +28,6 @@ Click [here] to learn more about me, my education, passions and some of the thin
 <br />
 
 
-<div>
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="300"
-      height="200"
-      src="https://www.wolframcloud.com/obj/f7df75cf-1e58-419c-9d4b-b1e54afc9638?_embed=iframe">
-  </iframe>
-</div>
-
 [here]: https://peterantonarosjr.com
 [Christopher Soto]: https://christophersoto.me/
 [Experimental Mathematics Laboratory at Queens College]: https://qcpages.qc.cuny.edu/~chanusa/research/lab.html
