@@ -27,7 +27,7 @@ Click [here] to learn more about me, my education, passions and some of the thin
 <br />
 <br />
 
-<img source="https://www.wolframcloud.com/obj/bbef8f50-0e98-48d6-8abf-329f577d9c11">
+<img src="https://www.wolframcloud.com/obj/bbef8f50-0e98-48d6-8abf-329f577d9c11">
 
 [here]: https://peterantonarosjr.com
 [Christopher Soto]: https://christophersoto.me/
