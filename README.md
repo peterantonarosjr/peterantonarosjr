@@ -2,8 +2,8 @@
 
 ### I am an Applied Mathematics 🧮 student at Queens College 🏫 City University of New York 
 
-* 📜 I am currently conducting Generative Art Research with [Christopher Soto] under the supervision and guidance of our professor [Christopher Hanusa], who operates the [Experimental Mathematics Laboratory at Queens College]
-* 📚 I am currently reading about the optimization of algorithms to cut global energy consumption
+* 🔍 I am currently conducting Generative Art Research with [Christopher Soto] under the supervision and guidance of our professor [Christopher Hanusa], who operates the [Experimental Mathematics Laboratory at Queens College]
+* 📚 I am currently reading about algorithm complexity reduction in order to cut global energy consumption
 * ⚡ A future goal of mine is to contribute to an open source project
 
 
@@ -27,11 +27,8 @@ Click [here] to learn more about me, my education, passions and some of the thin
 <br />
 <br />
 
-### Fun Code
-
-<img align="left" alt="Tear Drop Animation" width="100px" title="Randomly Triangulated Drop" src="https://github.com/peterantonarosjr/peterantonarosjr/blob/main/GIFS/tearDropAnimation.gif" />
 
 [here]: https://peterantonarosjr.com
 [Christopher Soto]: https://christophersoto.me/
 [Experimental Mathematics Laboratory at Queens College]: https://qcpages.qc.cuny.edu/~chanusa/research/lab.html
-[Christopher Hanusa]: https://www.linkedin.com/in/christopher-hanusa-64494549
+[Christopher Hanusa]: http://qc.edu/~chanusa
