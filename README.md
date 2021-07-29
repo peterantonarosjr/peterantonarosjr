@@ -27,6 +27,9 @@ Click [here] to learn more about me, my education, passions and some of the thin
 <br />
 <br />
 
+### Fun Code
+
+<img align="left" alt="Tear Drop Animation" width="100px" title="Randomly Triangulated Drop" src="https://github.com/peterantonarosjr/peterantonarosjr/blob/main/GIFS/tearDropAnimation.gif" />
 
 [here]: https://peterantonarosjr.com
 [Christopher Soto]: https://christophersoto.me/
