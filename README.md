@@ -3,7 +3,7 @@
 ### I am an Applied Mathematics 🧮 student at Queens College 🏫 City University of New York 
 
 * 🔍 I am currently conducting Generative Art Research with [Christopher Soto] under the supervision and guidance of our professor [Christopher Hanusa], who operates the [Experimental Mathematics Laboratory at Queens College]
-* 📚 I am currently reading about algorithm complexity reduction in order to cut global energy consumption
+* 📚 I am currently reading Computability, Complexity, and Languages by Martin D. Davis & Elaine J. Weyuker
 * ⚡ A future goal of mine is to contribute to an open source project
 
 
