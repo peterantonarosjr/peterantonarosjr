@@ -1,10 +1,10 @@
 # Hello there 👋, I'm Peter Antonaros Jr.
 
-### I am an Applied Mathematics 🧮 student at Queens College 🏫 City University of New York 
+### I am a recent Mathematics graduate 🧮 at Queens College City University of New York 🏫
 
 * 🔍 I am currently conducting Generative Art Research with [Christopher Soto] under the supervision and guidance of our professor [Christopher Hanusa], who operates the [Experimental Mathematics Laboratory at Queens College]
-* 📚 I am currently reading The Signal and the Noise by Nate Silver
-* ⚡ A future goal of mine is to contribute to an open source project
+* 📚 I am currently reading Brave New World by Aldous Huxley
+* ⚡ A future goal of mine is to contribute to an open source Machine Learning project
 
 
 ### Personal Website
