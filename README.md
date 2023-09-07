@@ -1,10 +1,6 @@
 # Hello there 👋, I'm Peter Antonaros Jr.
 
-### I have recently graduated from Queens College City University of New York with a Bachelor's in Mathematics and a minor in Computer Science.
-
-* 🔍 I am currently conducting Generative Art Research with [Christopher Soto] under the supervision and guidance of our professor [Christopher Hanusa], who operates the [Experimental Mathematics Laboratory at Queens College]
-* 📚 I am currently reading Brave New World by Aldous Huxley
-* ⚡ A future goal of mine is to contribute to an open source Machine Learning project
+### I am currently enrolled at the Fu School of Engineering at Columbia University for an MS in Applied Mathematics.
 
 
 ### Personal Website
